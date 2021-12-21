@@ -31,7 +31,7 @@
 //
 //
 //  let filterUser = Arruser.filter((item) => {
-//      if (item.id % 4 === 0){
+//      if (item.id % 2 === 0){
 //      return item
 //      }});
 //  console.log(filterUser);
